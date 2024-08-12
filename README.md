@@ -1,4 +1,4 @@
-# Test_Data_Science_BdB
+# Prueba técnica Científico de Datos - Banco de Bogotá
 Repositorio para la prueba tecnica como cientifico de datos 
 
 
